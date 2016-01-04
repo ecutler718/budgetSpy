@@ -9,6 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus, e
 
 ### VISIT US
 Bring Us Coffee!
+[Click Here] (http://www.google.maps.com) to Get Directions!
 
 ### OUR STAFF
 Billy
